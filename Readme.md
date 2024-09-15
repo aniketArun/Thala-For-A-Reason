@@ -1,5 +1,7 @@
 # Thala Webpage
 
+![Thala Webpage](/Assets/thala.png)
+
 This is a simple webpage that checks if the sum of digits entered by the user equals **7** or if the length of the entered string is **7**. If either condition is satisfied, a music clip is played and a message "You Got Thala" is displayed. Otherwise, it displays "You Not Got Thala".
 
 ## Technologies Used
